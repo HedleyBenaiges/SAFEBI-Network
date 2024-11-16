@@ -1,6 +1,10 @@
-# Network Design and Implementation
+# Introduction
 I designed and created a network for a made up company by the name of 'SAFEBI'.
 This was a project I did at university which integrated the key concepts covered in our Networking module.
+
+# Packet Tracer Network
+![Network](https://github.com/user-attachments/assets/6f59d6dd-380d-49f2-b689-e44f5bbac501)
+
 
 # Features
 - Extended Star Topology
