@@ -2,7 +2,7 @@
 I designed and created a network for a made up company by the name of 'SAFEBI'.
 This was a project I did at university which integrated the key concepts covered in our Networking module.
 
-## Features
+# Features
 - Extended Star Topology
 - Small level of redundancy (3 routers)
 - Router-on-a-Stick configuration for each floor
