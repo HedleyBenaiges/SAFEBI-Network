@@ -18,7 +18,7 @@ This was a project I did at university which integrated the key concepts covered
 
 # How to open the file
 Open 'SAFEBI.pkt' in Cisco Packet Tracer
-which can be downloaded from ![Cisco's NetAcademy](https://www.netacad.com/cisco-packet-tracer)
+which can be downloaded from <a href="https://www.netacad.com/cisco-packet-tracer">Cisco's NetAcademy</a>
 
 Note: It may take a few minutes to start up once opened.
 
